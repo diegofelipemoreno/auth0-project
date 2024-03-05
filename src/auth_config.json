@@ -1,0 +1,7 @@
+{
+    "domain": "dev-xorfu5w4di1ahtkv.us.auth0.com",
+    "clientId": "mx7ADtHeG9qntHbtNHiKQeVBaY6dyw1h",
+    "audience": "",
+    "appOrigin": "{OPTIONAL: THE BASE URL OF YOUR APPLICATION (default: http://localhost:3000)}",
+    "apiOrigin": "{OPTIONAL: THE BASE URL OF YOUR API (default: http://localhost:3001)}"
+  }
